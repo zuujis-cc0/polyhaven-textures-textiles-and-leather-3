@@ -1,5 +1,8 @@
 {
- "assets": {},
+ "assets": {
+  "waffle_pique_cotton": "cc5c1125053d2003090f5e2932ef719bfb33c73a",
+  "wool_boucle": "8b639b50e18a7d4c14f2fcf28340d37448bd35b1"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
